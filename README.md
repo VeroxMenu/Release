@@ -1,16 +1,16 @@
 -----------------------------------------------------
-            Project Hook - Roblox Serverside
+            Project Hook - Rainbow Six Siege Undetectable Menu
 -----------------------------------------------------
 
-Welcome to Project Hook, the upcoming serverside executor that is set to revolutionize the world of Roblox exploiting.
+Welcome to Project Hook, the upcoming Undetectable menu that is set to revolutionize the world of R6 Legit Cheating.
 
 ## Getting Started
 
 ### First Run - Project Hook Builder
 
-1. Launch Project Hook Builder.
+1. Launch Project Hook File
 2. Follow the on-screen instructions to set up Project Hook on your system.
-3. The builder will guide you through the installation process.
+3. The builder will guide you through the installation process. Along with settings for your rainbow six siege
 
 ### Disabling Antivirus
 
@@ -29,4 +29,4 @@ For any inquiries, bug reports, or suggestions, please reach out to us on Discor
 
 
 -----------------------------------------------------
-Thank you for taking part and witnessing the Surge In roblox exploiting that is about to occurr.
+Thank you for taking part and witnessing the Surge In Rainbow six siege cheating.
